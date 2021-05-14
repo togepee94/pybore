@@ -1,3 +1,4 @@
-# Default ignored files
-/shelf/
-/workspace.xml
+.idea
+pybo.db
+*.pyc
+__pycache__
